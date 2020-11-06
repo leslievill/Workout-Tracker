@@ -80,4 +80,3 @@ router.put("/api/workouts/:id", ({body, params}, res) => {
 
 
 module.exports = router;
-
